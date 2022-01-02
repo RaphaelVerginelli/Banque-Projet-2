@@ -1,0 +1,3 @@
+k 1 ke None None
+l 3 le None None
+j 2 je 23 0
